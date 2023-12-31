@@ -1,13 +1,13 @@
 @font-face {
-  font-family: "enpitukaisyo";
-  src: url(g_pencilkaisho_free.ttf);
+  font-family: "Azuki";
+  src: url(azuki.ttf);
 }
 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "enpitukaisyo"
+  font-family: "Azuki"
 }
 
 body {
