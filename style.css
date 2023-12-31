@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Azuki";
+  src: url(azuki.ttf);
+}
+
 *{
   margin: 0;
   padding: 0;
