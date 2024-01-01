@@ -104,7 +104,7 @@ body {
   }
 
   .toggle-btn span:nth-child(5) {
-    tpo: 44px;
+    top: 44px;
   }
   
   .open .toggle-btn span {
