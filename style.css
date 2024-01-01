@@ -197,6 +197,7 @@ h4{
 
 .about-text{
   width: 550px;
+  margin: 30px auto;
 }
 
 .about .main{
@@ -341,4 +342,19 @@ p span{
   color: #76deea;;
   border: 2px solid #76deea;
   cursor: pointer;
+}
+
+/* hob.html */
+.hobby{
+  background-color: white;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.title h2{
+  color: #333;
+  font-size: 75px;
+  margin: 30px auto;
+  text-align: center;
+  letter-spacing: 5px;
 }
