@@ -55,7 +55,8 @@ body {
   nav .inner ul li a {
     display: block;
     color: #333;
-    font-size: 14px;
+    font-weight: bold; 
+    font-size: 18px;
     padding: 1rem;
     text-decoration: none;
     transition-duration: 0.2s;
