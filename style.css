@@ -385,3 +385,11 @@ p span{
   text-align: center;
   letter-spacing: 5px;
 }
+
+.title h6{
+  color: #333;
+  font-size: 45px;
+  margin: 50px auto;
+  text-align: center;
+  letter-spacing: 5px;
+}
