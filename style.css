@@ -149,16 +149,19 @@ body {
 
 .Home .body{
     display: flex;
+    flex-wrap: wrap;
     justify-content:space-evenly ;
-    padding-right: 50px;
-    padding-left: 270px;
+    /* padding-right: 50px;
+    padding-left: 270px; */
+    align-items: center;
+    align-content: center;
 
 }
 
 .Home .body img{
     width: 508px;
     height: 508px;
-    margin-top: -150px;
+    /* margin-top: -150px; */
 }
 
 h1{
@@ -202,8 +205,8 @@ h4{
 }
 
 .about .main{
-  width: 1130px;
   display: flex;
+  flex-wrap: wrap;
   margin: 0 auto;
   align-items: center;
   justify-content: space-around;
