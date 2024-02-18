@@ -8,6 +8,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Azuki";
+  cursor: url(images/naru.gif), text;
 }
 
 body {
